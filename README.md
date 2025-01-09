@@ -128,8 +128,12 @@ If you have questions or need support, contact **Spencer** at `spencer@techsico.
 
 ---
 
-Things I want to add/try:
+## Things I want to add/try:
 - Easy tenant switching
 - Microsoft 365 Group support
 - I took my original script and used ChatGPT to add comments and it made some minor changes. I might upload the original and then the ChatGPT version to show the changes.
 - I used to have Copilot last year but didn't use it so I cancelled. I may get it back to see what kinds of changes and updates it recommends
+- As I add scripts and tools I will create a folder structure
+- Potentially have a main menu
+- Potentially have a GUI, if I go that route I will start a C# project
+
